@@ -1,0 +1,637 @@
+TLocationTracker
+v7
+r0
+t307437366.548255
+cCheck dependencies
+cProcessInfoPlistFile /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/Info.plist LocationTracker-Info.plist
+cCompileXIB /Users/ericmai/Desktop/iPhone/LocationTracker/FlipsideView.xib
+cCompileXIB /Users/ericmai/Desktop/iPhone/LocationTracker/MainView.xib
+cCompileXIB /Users/ericmai/Desktop/iPhone/LocationTracker/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/LocationTracker.app/Default.png Default.png
+cProcessPCH /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-awtywbvpfrrpijfbcjpehtytfgzo/LocationTracker_Prefix.pch.gch LocationTracker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker.momd /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld
+cCompileC build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/main.o /Users/ericmai/Desktop/iPhone/LocationTracker/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LocationTrackerAppDelegate.o /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/MainViewController.o /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/FlipsideViewController.o /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LTLocationManager.o /Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/DataManager.o /Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LocationReading.o /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker normal i386
+cGenerateDSYMFile /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app.dSYM /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker
+cTouch /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C5308AF0000000000000132
+t1280510127
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004BFDFEB400000000001CFA90
+t1274937012
+s1899152
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004BFDFEA8000000000000046B
+t1274937000
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004BFF44C00000000000068F90
+t1275020480
+s429968
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004BFF44B600000000000001D0
+t1275020470
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C04725B0000000000160350
+t1275359835
+s1442640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.h
+c000000004C93F1FB000000000000022F
+t1284764155
+s559
+i<UIKit/UIKit.h>
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m
+c000000004C93F1FB0000000000000454
+t1284764155
+s1108
+i"FlipsideViewController.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.h
+c000000004CA2629500000000000004E5
+t1285710485
+s1253
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"LTLocationManager.h"
+i"DataManager.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m
+c000000004CA2DA6D0000000000001EED
+t1285741165
+s7917
+i"LocationTrackerAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.h
+c000000004C95889C000000000000058C
+t1284868252
+s1420
+i"FlipsideViewController.h"
+i<CoreData/CoreData.h>
+i<MapKit/MapKit.h>
+i"LTLocationManager.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m
+c000000004C95899200000000000014C6
+t1284868498
+s5318
+i"MainViewController.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.h
+c000000004CA2D49500000000000003A4
+t1285739669
+s932
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+i<CoreLocation/CoreLocation.h>
+i"LocationReading.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m
+c000000004CA2D67200000000000010CB
+t1285740146
+s4299
+i"DataManager.h"
+i"LocationTrackerAppDelegate.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/Default.png
+c000000004C958D0A000000000002C5BD
+t1284869386
+s181693
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/FlipsideView.xib
+c000000004C93F1FB0000000000004C66
+t1284764155
+s19558
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.h
+c000000004CA26422000000000000045E
+t1285710882
+s1118
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i<CoreData/CoreData.h>
+i"LocationReading.h"
+i"DataManager.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m
+c000000004CA2644B0000000000000617
+t1285710923
+s1559
+i"LTLocationManager.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/LocationReading.h
+c000000004CA2D0C500000000000002D5
+t1285738693
+s725
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/LocationReading.m
+c000000004C96A9F200000000000001F0
+t1284942322
+s496
+i"LocationReading.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld
+c000000004CA2E50A00000000000000CC
+t1285743882
+s204
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.h
+c000000004CA2E50A00000000000002BF
+t1285743882
+s703
+i<CoreData/CoreData.h>
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m
+c000000004CA2E50A000000000000018A
+t1285743882
+s394
+i"LocationReading.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationTracker.xcdatamodel
+c000000004C96ED380000000000000088
+t1284959544
+s136
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker_Prefix.pch
+c000000004C93F1FB0000000000000150
+t1284764155
+s336
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/MainView.xib
+c000000004C9588D50000000000009818
+t1284868309
+s38936
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/MainWindow.xib
+c000000004C93F1FB00000000000050BD
+t1284764155
+s20669
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app
+t1285744566
+s340
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app.dSYM
+t1285744566
+s102
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/Default.png
+t1285744564
+s181693
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/FlipsideView.nib
+t1285744564
+s1194
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/Info.plist
+t1285744564
+s608
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker
+t1285744566
+s54244
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker.mom
+t1284962280
+s1986
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker.momd
+t1285744566
+s136
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/MainView.nib
+t1285744564
+s3687
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/MainWindow.nib
+t1285744565
+s1157
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/PkgInfo
+t1285744564
+s8
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/DataManager.o
+t1285744566
+s28400
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/FlipsideViewController.o
+t1285744566
+s37748
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LTLocationManager.o
+t1285744566
+s25464
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LocationReading-18FCDB737BAE052E.o
+t2
+s0
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LocationReading-79B6A622828A136A.o
+t2
+s0
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LocationReading.o
+t1285744566
+s5632
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LocationTracker.LinkFileList
+c000000004CA2E7B4000000000000044C
+t1285744564
+s1100
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LocationTrackerAppDelegate.o
+t1285744566
+s67076
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/MainViewController.o
+t1285744566
+s67576
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/main.o
+t1285744566
+s6316
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/StaticAnalyzer/normal/i386/DataManager.plist
+t1284855483
+s276
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/StaticAnalyzer/normal/i386/FlipsideViewController.plist
+t1284855482
+s276
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/StaticAnalyzer/normal/i386/LTLocationManager.plist
+t1284855483
+s276
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/StaticAnalyzer/normal/i386/LocationTrackerAppDelegate.plist
+t1284855482
+s276
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/StaticAnalyzer/normal/i386/MainViewController.plist
+t1284855482
+s276
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/StaticAnalyzer/normal/i386/main.plist
+t1284855482
+s276
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/main.m
+c000000004C93F1FB0000000000000167
+t1284764155
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-awtywbvpfrrpijfbcjpehtytfgzo/LocationTracker_Prefix.pch.gch
+t1285744565
+s15232016
+
+N/var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-bepvjzajoohcnkdfwtshrkyklezv/LocationTracker_Prefix.pch.pth
+t1284855482
+s2685964
+
+NLocationTracker-Info.plist
+c000000004C9585910000000000000368
+t1284867473
+s872
+
+CAnalyze /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m
+s306548282.951519
+e306548282.993488
+r1
+xAnalyze
+x/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m
+lSLF07#2@86"Analyze /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m306548282#306548282#0(0"0(0#0#78"/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m8603519872#2191"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-generated-files.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-own-target-headers.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-all-target-headers.hmap -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-project-headers.hmap -F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/include -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources/i386 -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-bepvjzajoohcnkdfwtshrkyklezv/LocationTracker_Prefix.pch --analyze /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m -o /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/StaticAnalyzer/normal/i386/FlipsideViewController.plist0#
+
+CAnalyze /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m
+s306548282.776348
+e306548282.951238
+r1
+xAnalyze
+x/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m
+lSLF07#2@90"Analyze /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m306548282#306548282#0(0"0(0#0#82"/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m8604515328#2199"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-generated-files.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-own-target-headers.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-all-target-headers.hmap -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-project-headers.hmap -F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/include -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources/i386 -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-bepvjzajoohcnkdfwtshrkyklezv/LocationTracker_Prefix.pch --analyze /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m -o /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/StaticAnalyzer/normal/i386/LocationTrackerAppDelegate.plist0#
+
+CAnalyze /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m
+s306548282.947104
+e306548282.999337
+r1
+xAnalyze
+x/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m
+lSLF07#2@82"Analyze /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m306548282#306548282#0(0"0(0#0#74"/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m8603778464#2183"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-generated-files.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-own-target-headers.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-all-target-headers.hmap -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-project-headers.hmap -F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/include -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources/i386 -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-bepvjzajoohcnkdfwtshrkyklezv/LocationTracker_Prefix.pch --analyze /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m -o /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/StaticAnalyzer/normal/i386/MainViewController.plist0#
+
+CAnalyze /Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m
+s306548282.999432
+e306548283.071358
+r1
+xAnalyze
+x/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m
+lSLF07#2@67"Analyze /Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m306548282#306548283#0(0"0(0#0#59"/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m8602481984#2161"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-generated-files.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-own-target-headers.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-all-target-headers.hmap -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-project-headers.hmap -F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/include -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources/i386 -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-bepvjzajoohcnkdfwtshrkyklezv/LocationTracker_Prefix.pch --analyze /Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m -o /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/StaticAnalyzer/normal/i386/DataManager.plist0#
+
+CAnalyze /Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m
+s306548282.993588
+e306548283.098669
+r1
+xAnalyze
+x/Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m
+lSLF07#2@73"Analyze /Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m306548282#306548283#0(0"0(0#0#65"/Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m8603316320#2173"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-generated-files.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-own-target-headers.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-all-target-headers.hmap -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-project-headers.hmap -F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/include -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources/i386 -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-bepvjzajoohcnkdfwtshrkyklezv/LocationTracker_Prefix.pch --analyze /Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m -o /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/StaticAnalyzer/normal/i386/LTLocationManager.plist0#
+
+CAnalyze /Users/ericmai/Desktop/iPhone/LocationTracker/main.m
+s306548282.775191
+e306548282.947015
+r1
+xAnalyze
+x/Users/ericmai/Desktop/iPhone/LocationTracker/main.m
+lSLF07#2@60"Analyze /Users/ericmai/Desktop/iPhone/LocationTracker/main.m306548282#306548282#0(0"0(0#0#52"/Users/ericmai/Desktop/iPhone/LocationTracker/main.m8605735424#2147"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-generated-files.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-own-target-headers.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-all-target-headers.hmap -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-project-headers.hmap -F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/include -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources/i386 -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-bepvjzajoohcnkdfwtshrkyklezv/LocationTracker_Prefix.pch --analyze /Users/ericmai/Desktop/iPhone/LocationTracker/main.m -o /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307437364#307437364#0(0"0(0#1#0"8634278144#0"0#
+
+CCompileC build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/DataManager.o /Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307437366.342217
+e307437366.469383
+r1
+xCompileC
+xbuild/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/DataManager.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m: In function '-[DataManager saveNewLocation:]':
+o/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m:56: warning: passing argument 1 of 'setAltitude:' makes pointer from integer without a cast
+o/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m:57: warning: passing argument 1 of 'setCourse:' makes pointer from integer without a cast
+o/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m:58: warning: passing argument 1 of 'setHorizontalAccuracy:' makes pointer from integer without a cast
+o/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m:59: warning: passing argument 1 of 'setLatitude:' makes pointer from integer without a cast
+o/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m:60: warning: passing argument 1 of 'setLongitude:' makes pointer from integer without a cast
+o/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m:62: warning: passing argument 1 of 'setSpeed:' makes pointer from integer without a cast
+o/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m:64: warning: passing argument 1 of 'setVerticalAccuracy:' makes pointer from integer without a cast
+lSLF07#2@67"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m307437366#307437366#0(1186"/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m: In function '-[DataManager saveNewLocation:]':/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m:56: warning: passing argument 1 of 'setAltitude:' makes pointer from integer without a cast/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m:57: warning: passing argument 1 of 'setCourse:' makes pointer from integer without a cast/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m:58: warning: passing argument 1 of 'setHorizontalAccuracy:' makes pointer from integer without a cast/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m:59: warning: passing argument 1 of 'setLatitude:' makes pointer from integer without a cast/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m:60: warning: passing argument 1 of 'setLongitude:' makes pointer from integer without a cast/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m:62: warning: passing argument 1 of 'setSpeed:' makes pointer from integer without a cast/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m:64: warning: passing argument 1 of 'setVerticalAccuracy:' makes pointer from integer without a cast7(22@78"Passing argument 1 of 'setAltitude:' makes pointer from integer without a cast307437366#108#152#0(6@59"/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m307432946#56#0#56#0#0"0(22@76"Passing argument 1 of 'setCourse:' makes pointer from integer without a cast307437366#260#150#0(6@59"/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m307432946#57#0#57#0#0"0(22@88"Passing argument 1 of 'setHorizontalAccuracy:' makes pointer from integer without a cast307437366#410#162#0(6@59"/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m307432946#58#0#58#0#0"0(22@78"Passing argument 1 of 'setLatitude:' makes pointer from integer without a cast307437366#572#152#0(6@59"/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m307432946#59#0#59#0#0"0(22@79"Passing argument 1 of 'setLongitude:' makes pointer from integer without a cast307437366#724#153#0(6@59"/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m307432946#60#0#60#0#0"0(22@75"Passing argument 1 of 'setSpeed:' makes pointer from integer without a cast307437366#877#149#0(6@59"/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m307432946#62#0#62#0#0"0(22@86"Passing argument 1 of 'setVerticalAccuracy:' makes pointer from integer without a cast307437366#1026#160#0(6@59"/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m307432946#64#0#64#0#0"0(0#0#59"/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m8617329536#2152"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-generated-files.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-own-target-headers.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-all-target-headers.hmap -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-project-headers.hmap -F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/include -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources/i386 -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-awtywbvpfrrpijfbcjpehtytfgzo/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m -o /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/DataManager.o0#
+
+CCompileC build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/FlipsideViewController.o /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307437366.260950
+e307437366.342110
+r1
+xCompileC
+xbuild/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/FlipsideViewController.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m307437366#307437366#0(0"0(0#0#78"/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m8620773120#2182"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-generated-files.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-own-target-headers.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-all-target-headers.hmap -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-project-headers.hmap -F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/include -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources/i386 -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-awtywbvpfrrpijfbcjpehtytfgzo/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m -o /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/FlipsideViewController.o0#
+
+CCompileC build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LTLocationManager.o /Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307437366.288032
+e307437366.393602
+r1
+xCompileC
+xbuild/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LTLocationManager.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m307437366#307437366#0(0"0(0#0#65"/Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m8619010624#2164"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-generated-files.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-own-target-headers.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-all-target-headers.hmap -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-project-headers.hmap -F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/include -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources/i386 -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-awtywbvpfrrpijfbcjpehtytfgzo/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m -o /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LTLocationManager.o0#
+
+CCompileC build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LocationReading-18FCDB737BAE052E.o /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LocationReading-79B6A622828A136A.o /Users/ericmai/Desktop/iPhone/LocationTracker/LocationReading.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LocationReading.o /Users/ericmai/Desktop/iPhone/LocationTracker/LocationReading.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307434042.619566
+e307434042.714193
+r1
+xCompileC
+xbuild/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LocationReading.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/LocationReading.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/LocationReading.m307434042#307434042#0(0"0(0#0#63"/Users/ericmai/Desktop/iPhone/LocationTracker/LocationReading.m8620748160#2160"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-generated-files.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-own-target-headers.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-all-target-headers.hmap -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-project-headers.hmap -F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/include -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources/i386 -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-awtywbvpfrrpijfbcjpehtytfgzo/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/LocationReading.m -o /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LocationReading.o0#
+
+CCompileC build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LocationReading.o /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307437366.393709
+e307437366.493784
+r1
+xCompileC
+xbuild/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LocationReading.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m307437366#307437366#0(0"0(0#0#92"/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m8616541600#2189"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-generated-files.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-own-target-headers.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-all-target-headers.hmap -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-project-headers.hmap -F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/include -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources/i386 -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-awtywbvpfrrpijfbcjpehtytfgzo/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m -o /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LocationReading.o0#
+
+CCompileC build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LocationTrackerAppDelegate.o /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307437366.118059
+e307437366.260838
+r1
+xCompileC
+xbuild/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LocationTrackerAppDelegate.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m307437366#307437366#0(0"0(0#0#82"/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m8620869888#2190"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-generated-files.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-own-target-headers.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-all-target-headers.hmap -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-project-headers.hmap -F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/include -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources/i386 -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-awtywbvpfrrpijfbcjpehtytfgzo/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m -o /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LocationTrackerAppDelegate.o0#
+
+CCompileC build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/MainViewController.o /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307437366.130538
+e307437366.287921
+r1
+xCompileC
+xbuild/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/MainViewController.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m307437366#307437366#0(0"0(0#0#74"/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m8616362432#2174"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-generated-files.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-own-target-headers.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-all-target-headers.hmap -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-project-headers.hmap -F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/include -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources/i386 -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-awtywbvpfrrpijfbcjpehtytfgzo/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m -o /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/main.o /Users/ericmai/Desktop/iPhone/LocationTracker/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307437366.063776
+e307437366.130434
+r1
+xCompileC
+xbuild/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/main.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/main.m307437366#307437366#0(0"0(0#0#52"/Users/ericmai/Desktop/iPhone/LocationTracker/main.m8625933376#2138"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-generated-files.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-own-target-headers.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-all-target-headers.hmap -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-project-headers.hmap -F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/include -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources/i386 -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-awtywbvpfrrpijfbcjpehtytfgzo/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/main.m -o /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/ericmai/Desktop/iPhone/LocationTracker/FlipsideView.xib
+s307437364.247557
+e307437364.706682
+r1
+xCompileXIB
+x/Users/ericmai/Desktop/iPhone/LocationTracker/FlipsideView.xib
+lSLF07#2@27"CompileXIB FlipsideView.xib307437364#307437364#0(0"0(0#0#62"/Users/ericmai/Desktop/iPhone/LocationTracker/FlipsideView.xib8618188544#603"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/FlipsideView.nib /Users/ericmai/Desktop/iPhone/LocationTracker/FlipsideView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/ericmai/Desktop/iPhone/LocationTracker/MainView.xib
+s307437364.248273
+e307437364.876804
+r1
+xCompileXIB
+x/Users/ericmai/Desktop/iPhone/LocationTracker/MainView.xib
+lSLF07#2@23"CompileXIB MainView.xib307437364#307437364#0(0"0(0#0#58"/Users/ericmai/Desktop/iPhone/LocationTracker/MainView.xib8617952160#595"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/MainView.nib /Users/ericmai/Desktop/iPhone/LocationTracker/MainView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/ericmai/Desktop/iPhone/LocationTracker/MainWindow.xib
+s307437364.706773
+e307437365.140348
+r1
+xCompileXIB
+x/Users/ericmai/Desktop/iPhone/LocationTracker/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib307437364#307437365#0(0"0(0#0#60"/Users/ericmai/Desktop/iPhone/LocationTracker/MainWindow.xib8616245312#599"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/MainWindow.nib /Users/ericmai/Desktop/iPhone/LocationTracker/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/LocationTracker.app/Default.png Default.png
+s307437364.876899
+e307437364.922586
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/LocationTracker.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png307437364#307437364#0(0"0(0#0#57"/Users/ericmai/Desktop/iPhone/LocationTracker/Default.png8635832512#484"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/ericmai/Desktop/iPhone/LocationTracker/Default.png /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app0#
+
+CDataModelCompile /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker.mom /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationTracker.xcdatamodel
+s306655080.374850
+e306655080.461105
+r1
+xDataModelCompile
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker.mom
+x/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationTracker.xcdatamodel
+lSLF07#2@110"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationTracker.xcdatamodel306655080#306655080#0(0"0(0#0#102"/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationTracker.xcdatamodel8605121696#458"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationTracker.xcdatamodel /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker.mom0#
+
+CDataModelVersionCompile /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker.momd /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld
+s307437366.062683
+e307437366.117951
+r1
+xDataModelVersionCompile
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker.momd
+x/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld
+lSLF07#2@121"DataModelVersionCompile build/Debug-iphonesimulator/LocationTracker.app/LocationTracker.momd LocationTracker.xcdatamodeld307437366#307437366#0(0"0(0#0#74"/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld8621585600#431"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker.momd0#
+
+CGenerateDSYMFile /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app.dSYM /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker
+s307437366.523710
+e307437366.545015
+r1
+xGenerateDSYMFile
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app.dSYM
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/LocationTracker.app.dSYM build/Debug-iphonesimulator/LocationTracker.app/LocationTracker307437366#307437366#0(0"0(0#0#109"/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker8618303008#428"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker -o /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app.dSYM0#
+
+CLd /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker normal i386
+s307437366.493885
+e307437366.523606
+r1
+xLd
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker
+xnormal
+xi386
+lSLF07#2@114"Link /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker307437366#307437366#0(0"0(0#0#0"8620816896#1037"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator -F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator -filelist /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/Objects-normal/i386/LocationTracker.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework CoreLocation -framework MapKit -o /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/LocationTracker0#
+
+CProcessInfoPlistFile /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/Info.plist LocationTracker-Info.plist
+s307437364.243319
+e307437364.247470
+r1
+xProcessInfoPlistFile
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/Info.plist
+xLocationTracker-Info.plist
+lSLF07#2@34"Process LocationTracker-Info.plist307437364#307437364#0(0"0(0#0#72"/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker-Info.plist8619041728#524"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LocationTracker-Info.plist -genpkginfo /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app/Info.plist0#
+
+CProcessPCH /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-awtywbvpfrrpijfbcjpehtytfgzo/LocationTracker_Prefix.pch.gch LocationTracker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307437365.140463
+e307437366.062409
+r1
+xProcessPCH
+x/var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-awtywbvpfrrpijfbcjpehtytfgzo/LocationTracker_Prefix.pch.gch
+xLocationTracker_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile LocationTracker_Prefix.pch307437365#307437366#0(0"0(0#0#72"/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker_Prefix.pch8620955648#2015"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-generated-files.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-own-target-headers.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-all-target-headers.hmap -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-project-headers.hmap -F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/include -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources/i386 -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources -c /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker_Prefix.pch -o /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-awtywbvpfrrpijfbcjpehtytfgzo/LocationTracker_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-bepvjzajoohcnkdfwtshrkyklezv/LocationTracker_Prefix.pch.pth LocationTracker_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s306548282.291814
+e306548282.774451
+r1
+xProcessPCH
+x/var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-bepvjzajoohcnkdfwtshrkyklezv/LocationTracker_Prefix.pch.pth
+xLocationTracker_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@37"Precompile LocationTracker_Prefix.pch306548282#306548282#0(0"0(0#0#72"/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker_Prefix.pch8607864256#2006"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-generated-files.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-own-target-headers.hmap -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-all-target-headers.hmap -iquote /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/LocationTracker-project-headers.hmap -F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/include -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources/i386 -I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Debug-iphonesimulator/LocationTracker.build/DerivedSources -c /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker_Prefix.pch -o /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-bepvjzajoohcnkdfwtshrkyklezv/LocationTracker_Prefix.pch.pth0#
+
+CTouch /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app
+s307437366.545104
+e307437366.548216
+r1
+xTouch
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app
+lSLF07#2@99"Touch /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app307437366#307437366#0(0"0(0#0#0"8618073728#300"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ericmai/Desktop/iPhone/LocationTracker/build/Debug-iphonesimulator/LocationTracker.app0#
+

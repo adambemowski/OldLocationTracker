@@ -1,0 +1,891 @@
+TLocationTracker
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004CC10EEE00000000002C9710
+t1287720686
+s2922256
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004CC10EAD00000000000004CF
+t1287720621
+s1231
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC10FA70000000000300DE0
+t1287720871
+s3149280
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC10F8D000000000000046B
+t1287720845
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC10D700000000000000AB3
+t1287720304
+s2739
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC11B5300000000000D96F0
+t1287723859
+s890608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC11B4300000000000001D0
+t1287723843
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC11D4800000000000002FE
+t1287724360
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC11D62000000000029CFA0
+t1287724386
+s2740128
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004CC1106800000000000000EB
+t1287721064
+s235
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004CC110680000000000094AF0
+t1287721064
+s609008
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1111C00000000000000C4
+t1287721244
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004CC10E6A0000000000001A58
+t1287720554
+s6744
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC10E7900000000000B0C10
+t1287720569
+s723984
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004CB3E44C0000000000002407
+t1286857804
+s9223
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/CommonCrypto/CommonHMAC.h
+c000000004CB3E44C0000000000000DE2
+t1286857804
+s3554
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/arpa/inet.h
+c000000004CB3E4790000000000001533
+t1286857849
+s5427
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/ifaddrs.h
+c000000004CB3E4840000000000000782
+t1286857860
+s1922
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netdb.h
+c000000004CB3E4A0000000000000307F
+t1286857888
+s12415
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netinet/in.h
+c000000004CBFACDD0000000000005462
+t1287630045
+s21602
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netinet6/in6.h
+c000000004CBFACCD0000000000004F61
+t1287630029
+s20321
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdio.h
+c000000004CB3E4B800000000000040AC
+t1286857912
+s16556
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/sys/socket.h
+c000000004CBFACD80000000000005A69
+t1287630040
+s23145
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/sys/sysctl.h
+c000000004CBFACD80000000000007974
+t1287630040
+s31092
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/sys/types.h
+c000000004CBFACD90000000000002905
+t1287630041
+s10501
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/zlib.h
+c000000004CC1053F00000000000102A5
+t1287718207
+s66213
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.1.2.3.dylib
+c000000004CC105400000000000020FF0
+t1287718208
+s135152
+
+N/Users/jjariyas/Downloads/LocationTracker 2/ASIAuthenticationDialog.h
+c000000004CB1C5660000000000000453
+t1286718822
+s1107
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jjariyas/Downloads/LocationTracker 2/ASIAuthenticationDialog.m
+c000000004CB1C5660000000000003CB7
+t1286718822
+s15543
+i"ASIAuthenticationDialog.h"
+i"ASIHTTPRequest.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jjariyas/Downloads/LocationTracker 2/ASICacheDelegate.h
+c000000004CB1C56600000000000008AD
+t1286718822
+s2221
+i<Foundation/Foundation.h>
+
+N/Users/jjariyas/Downloads/LocationTracker 2/ASIDownloadCache.h
+c000000004CB1C5660000000000000804
+t1286718822
+s2052
+i<Foundation/Foundation.h>
+i"ASICacheDelegate.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/ASIDownloadCache.m
+c000000004CB1C5660000000000003924
+t1286718822
+s14628
+i"ASIDownloadCache.h"
+i"ASIHTTPRequest.h"
+i<CommonCrypto/CommonHMAC.h>
+
+N/Users/jjariyas/Downloads/LocationTracker 2/ASIFormDataRequest.h
+c000000004CB1C5660000000000000A6D
+t1286718822
+s2669
+i<Foundation/Foundation.h>
+i"ASIHTTPRequest.h"
+i"ASIHTTPRequestConfig.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/ASIFormDataRequest.m
+c000000004CC9EF3F0000000000002B52
+t1288302399
+s11090
+i"ASIFormDataRequest.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/ASIHTTPRequest.h
+c000000004CB1C5660000000000009486
+t1286718822
+s38022
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+i<stdio.h>
+i"ASIHTTPRequestConfig.h"
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+i"ASICacheDelegate.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/ASIHTTPRequest.m
+c000000004CC9EF3F000000000002647F
+t1288302399
+s156799
+i"ASIHTTPRequest.h"
+i<zlib.h>
+i"Reachability.h"
+i"ASIAuthenticationDialog.h"
+i<MobileCoreServices/MobileCoreServices.h>
+i<SystemConfiguration/SystemConfiguration.h>
+i"ASIInputStream.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/ASIHTTPRequestConfig.h
+c000000004CB1C56600000000000003B0
+t1286718822
+s944
+
+N/Users/jjariyas/Downloads/LocationTracker 2/ASIHTTPRequestDelegate.h
+c000000004CB1C5660000000000000599
+t1286718822
+s1433
+
+N/Users/jjariyas/Downloads/LocationTracker 2/ASIInputStream.h
+c000000004CB1C56600000000000003C9
+t1286718822
+s969
+i<Foundation/Foundation.h>
+
+N/Users/jjariyas/Downloads/LocationTracker 2/ASIInputStream.m
+c000000004CB1C5660000000000000BF0
+t1286718822
+s3056
+i"ASIInputStream.h"
+i"ASIHTTPRequest.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/ASINetworkQueue.h
+c000000004CB1C566000000000000109B
+t1286718822
+s4251
+i<Foundation/Foundation.h>
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/ASINetworkQueue.m
+c000000004CB1C56600000000000027CE
+t1286718822
+s10190
+i"ASINetworkQueue.h"
+i"ASIHTTPRequest.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/ASIProgressDelegate.h
+c000000004CB1C5660000000000000678
+t1286718822
+s1656
+
+N/Users/jjariyas/Downloads/LocationTracker 2/Classes/FlipsideViewController.h
+c000000004D68229E0000000000000644
+t1298670238
+s1604
+i<UIKit/UIKit.h>
+i"LocationTrackingResponseLoader.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/Classes/FlipsideViewController.m
+c000000004D6823AD0000000000000E57
+t1298670509
+s3671
+i"FlipsideViewController.h"
+i"LocationTrackerAppDelegate.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/Classes/LocationTrackerAppDelegate.h
+c000000004D59AB2D000000000000057A
+t1297722157
+s1402
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"LTLocationManager.h"
+i"DataManager.h"
+i"Constants.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/Classes/LocationTrackerAppDelegate.m
+c000000004D5EC7EA0000000000002901
+t1298057194
+s10497
+i"LocationTrackerAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/Classes/MainViewController.h
+c000000004D59CC4C000000000000064B
+t1297730636
+s1611
+i"FlipsideViewController.h"
+i<CoreData/CoreData.h>
+i<MapKit/MapKit.h>
+i"LTLocationManager.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/Classes/MainViewController.m
+c000000004D59CC350000000000002294
+t1297730613
+s8852
+i"MainViewController.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/Constants.h
+c000000004D59D7D40000000000000319
+t1297733588
+s793
+
+N/Users/jjariyas/Downloads/LocationTracker 2/Constants.m
+c000000004CE30D7C000000000000025E
+t1289948540
+s606
+i"Constants.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/DataManager.h
+c000000004CE30B6900000000000007AC
+t1289948009
+s1964
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+i<CoreLocation/CoreLocation.h>
+i<CommonCrypto/CommonDigest.h>
+i"LocationReading.h"
+i"UIDevice+machine.h"
+i"LocationTrackingResponseLoader.h"
+i"ASIFormDataRequest.h"
+i"Reachability.h"
+i"Constants.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/DataManager.m
+c000000004D6836440000000000003965
+t1298675268
+s14693
+i"DataManager.h"
+i"LocationTrackerAppDelegate.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/Default.png
+c000000004C958D0A000000000002C5BD
+t1284869386
+s181693
+
+N/Users/jjariyas/Downloads/LocationTracker 2/FlipsideView.xib
+c000000004D6823E1000000000000A462
+t1298670561
+s42082
+
+N/Users/jjariyas/Downloads/LocationTracker 2/LTLocationManager.h
+c000000004D3687CC0000000000000397
+t1295419340
+s919
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i"LocationReading.h"
+i"DataManager.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/LTLocationManager.m
+c000000004D5EC7FC0000000000000C75
+t1298057212
+s3189
+i"LTLocationManager.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/LocationTracker.xcdatamodeld
+c000000004D7588C500000000000000EE
+t1299548357
+s238
+
+N/Users/jjariyas/Downloads/LocationTracker 2/LocationTracker.xcdatamodeld/LocationReading.h
+c000000004CC9EB2C000000000000032F
+t1288301356
+s815
+i<CoreData/CoreData.h>
+
+N/Users/jjariyas/Downloads/LocationTracker 2/LocationTracker.xcdatamodeld/LocationReading.m
+c000000004CC9EB3700000000000001BE
+t1288301367
+s446
+i"LocationReading.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/LocationTracker_Prefix.pch
+c000000004CE3112A000000000000031A
+t1289949482
+s794
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jjariyas/Downloads/LocationTracker 2/LocationTrackingResponseLoader.h
+c000000004CC5DC8C00000000000003BB
+t1288035468
+s955
+i<Foundation/Foundation.h>
+
+N/Users/jjariyas/Downloads/LocationTracker 2/LocationTrackingResponseLoader.m
+c000000004D59A7630000000000001206
+t1297721187
+s4614
+i"LocationTrackingResponseLoader.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/MainView.xib
+c000000004CDC85630000000000009AF1
+t1289520483
+s39665
+
+N/Users/jjariyas/Downloads/LocationTracker 2/MainWindow.xib
+c000000004C93F1FB00000000000050BD
+t1284764155
+s20669
+
+N/Users/jjariyas/Downloads/LocationTracker 2/Reachability.h
+c000000004C34EF790000000000000F1B
+t1278537593
+s3867
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/jjariyas/Downloads/LocationTracker 2/Reachability.m
+c000000004CE30D5A000000000000239B
+t1289948506
+s9115
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/UIDevice+machine.h
+c000000004C1A87E4000000000000010D
+t1276807140
+s269
+i<Foundation/Foundation.h>
+i<sys/types.h>
+i<sys/sysctl.h>
+
+N/Users/jjariyas/Downloads/LocationTracker 2/UIDevice+machine.m
+c000000004C1A879900000000000002BE
+t1276807065
+s702
+i"UIDevice+machine.h"
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIAuthenticationDialog.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIDownloadCache.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIFormDataRequest.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIHTTPRequest.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIInputStream.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/ASINetworkQueue.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/Constants.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/DataManager.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/FlipsideViewController.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/LTLocationManager.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationReading.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTracker
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTracker.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTrackerAppDelegate.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTrackingResponseLoader.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/MainViewController.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/Reachability.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/UIDevice+machine.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIAuthenticationDialog.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIDownloadCache.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIFormDataRequest.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIHTTPRequest.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIInputStream.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/ASINetworkQueue.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/Constants.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/DataManager.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/FlipsideViewController.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/LTLocationManager.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationReading.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTracker
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTracker.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTrackerAppDelegate.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTrackingResponseLoader.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/MainViewController.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/Reachability.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/UIDevice+machine.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app.dSYM
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/Default.png
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/FlipsideView.nib
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/Info.plist
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/LocationTracker
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/LocationTracker.momd
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/MainView.nib
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/MainWindow.nib
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/PkgInfo
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/ResourceRules.plist
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/icon.png
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/tripographyLogo.png
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker 2/icon.png
+c000000004CC5E2430000000000001CCD
+t1288036931
+s7373
+
+N/Users/jjariyas/Downloads/LocationTracker 2/main.m
+c000000004C93F1FB0000000000000167
+t1284764155
+s359
+i<UIKit/UIKit.h>
+
+N/Users/jjariyas/Downloads/LocationTracker 2/tripographyLogo.png
+c000000004D5EFBDD0000000000003EA1
+t1298070493
+s16033
+
+N/Users/jjariyas/Library/MobileDevice/Provisioning Profiles/F9F5A5B8-5B21-4D0A-865F-698EB7E2CB6E.mobileprovision
+c000000004D7589920000000000002575
+t1299548562
+s9589
+
+N/var/folders/+O/+OUJ9XszHKmx5JY3saiVpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-bwkeipjziaeflubjnqkvmwdpnmmb/LocationTracker_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/+O/+OUJ9XszHKmx5JY3saiVpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-ewlmixmmrqxwxxarbfklpknklshm/LocationTracker_Prefix.pch.gch
+t2
+s0
+
+NLocationTracker-Info.plist
+c000000004CC5E1FA00000000000003DC
+t1288036858
+s988
+
+CCodeSign "/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app"
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIAuthenticationDialog.o "/Users/jjariyas/Downloads/LocationTracker 2/ASIAuthenticationDialog.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIDownloadCache.o "/Users/jjariyas/Downloads/LocationTracker 2/ASIDownloadCache.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIFormDataRequest.o "/Users/jjariyas/Downloads/LocationTracker 2/ASIFormDataRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIHTTPRequest.o "/Users/jjariyas/Downloads/LocationTracker 2/ASIHTTPRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIInputStream.o "/Users/jjariyas/Downloads/LocationTracker 2/ASIInputStream.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/ASINetworkQueue.o "/Users/jjariyas/Downloads/LocationTracker 2/ASINetworkQueue.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/Constants.o "/Users/jjariyas/Downloads/LocationTracker 2/Constants.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/DataManager.o "/Users/jjariyas/Downloads/LocationTracker 2/DataManager.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/FlipsideViewController.o "/Users/jjariyas/Downloads/LocationTracker 2/Classes/FlipsideViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/LTLocationManager.o "/Users/jjariyas/Downloads/LocationTracker 2/LTLocationManager.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationReading.o "/Users/jjariyas/Downloads/LocationTracker 2/LocationTracker.xcdatamodeld/LocationReading.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTrackerAppDelegate.o "/Users/jjariyas/Downloads/LocationTracker 2/Classes/LocationTrackerAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTrackingResponseLoader.o "/Users/jjariyas/Downloads/LocationTracker 2/LocationTrackingResponseLoader.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/MainViewController.o "/Users/jjariyas/Downloads/LocationTracker 2/Classes/MainViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/Reachability.o "/Users/jjariyas/Downloads/LocationTracker 2/Reachability.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/UIDevice+machine.o "/Users/jjariyas/Downloads/LocationTracker 2/UIDevice+machine.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/main.o "/Users/jjariyas/Downloads/LocationTracker 2/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIAuthenticationDialog.o "/Users/jjariyas/Downloads/LocationTracker 2/ASIAuthenticationDialog.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIDownloadCache.o "/Users/jjariyas/Downloads/LocationTracker 2/ASIDownloadCache.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIFormDataRequest.o "/Users/jjariyas/Downloads/LocationTracker 2/ASIFormDataRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIHTTPRequest.o "/Users/jjariyas/Downloads/LocationTracker 2/ASIHTTPRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIInputStream.o "/Users/jjariyas/Downloads/LocationTracker 2/ASIInputStream.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/ASINetworkQueue.o "/Users/jjariyas/Downloads/LocationTracker 2/ASINetworkQueue.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/Constants.o "/Users/jjariyas/Downloads/LocationTracker 2/Constants.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/DataManager.o "/Users/jjariyas/Downloads/LocationTracker 2/DataManager.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/FlipsideViewController.o "/Users/jjariyas/Downloads/LocationTracker 2/Classes/FlipsideViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/LTLocationManager.o "/Users/jjariyas/Downloads/LocationTracker 2/LTLocationManager.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationReading.o "/Users/jjariyas/Downloads/LocationTracker 2/LocationTracker.xcdatamodeld/LocationReading.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTrackerAppDelegate.o "/Users/jjariyas/Downloads/LocationTracker 2/Classes/LocationTrackerAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTrackingResponseLoader.o "/Users/jjariyas/Downloads/LocationTracker 2/LocationTrackingResponseLoader.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/MainViewController.o "/Users/jjariyas/Downloads/LocationTracker 2/Classes/MainViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/Reachability.o "/Users/jjariyas/Downloads/LocationTracker 2/Reachability.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/UIDevice+machine.o "/Users/jjariyas/Downloads/LocationTracker 2/UIDevice+machine.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/main.o "/Users/jjariyas/Downloads/LocationTracker 2/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/jjariyas/Downloads/LocationTracker 2/FlipsideView.xib"
+r0
+
+CCompileXIB "/Users/jjariyas/Downloads/LocationTracker 2/MainView.xib"
+r0
+
+CCompileXIB "/Users/jjariyas/Downloads/LocationTracker 2/MainWindow.xib"
+r0
+
+CCopyPNGFile "/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/Default.png" Default.png
+r0
+
+CCopyPNGFile "/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/icon.png" icon.png
+r0
+
+CCopyPNGFile "/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/tripographyLogo.png" tripographyLogo.png
+r0
+
+CCpResource build/Release-iphoneos/LocationTracker.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/LocationTracker" normal "armv6 armv7"
+r0
+
+CDataModelVersionCompile "/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/LocationTracker.momd" "/Users/jjariyas/Downloads/LocationTracker 2/LocationTracker.xcdatamodeld"
+r0
+
+CGenerateDSYMFile "/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app.dSYM" "/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/LocationTracker"
+r0
+
+CLd "/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTracker" normal armv6
+r0
+
+CLd "/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTracker" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/Info.plist" LocationTracker-Info.plist
+r0
+
+CProcessPCH /var/folders/+O/+OUJ9XszHKmx5JY3saiVpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-bwkeipjziaeflubjnqkvmwdpnmmb/LocationTracker_Prefix.pch.gch LocationTracker_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/+O/+OUJ9XszHKmx5JY3saiVpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-ewlmixmmrqxwxxarbfklpknklshm/LocationTracker_Prefix.pch.gch LocationTracker_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/jjariyas/Library/MobileDevice/Provisioning Profiles/F9F5A5B8-5B21-4D0A-865F-698EB7E2CB6E.mobileprovision" "/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/jjariyas/Downloads/LocationTracker 2/build/LocationTracker.build/Release-iphoneos/LocationTracker.build/LocationTracker.xcent"
+r0
+
+CTouch "/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app"
+r0
+
+CValidate "/Users/jjariyas/Downloads/LocationTracker 2/build/Release-iphoneos/LocationTracker.app"
+r0
+

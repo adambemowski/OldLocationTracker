@@ -1,0 +1,2 @@
+/Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m:66: warning: incomplete implementation of class 'LTLocationManager'
+/Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m:66: warning: method definition for '-initiateLocationTransmissionAtFrequency:' not found

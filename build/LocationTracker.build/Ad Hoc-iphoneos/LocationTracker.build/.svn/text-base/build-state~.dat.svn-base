@@ -1,0 +1,1590 @@
+TLocationTracker
+v7
+r0
+t309734955.885740
+cCheck dependencies
+cCpResource "build/Ad Hoc-iphoneos/LocationTracker.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/Info.plist" LocationTracker-Info.plist
+cCompileXIB /Users/ericmai/Desktop/iPhone/LocationTracker/FlipsideView.xib
+cCompileXIB /Users/ericmai/Desktop/iPhone/LocationTracker/MainView.xib
+cCompileXIB /Users/ericmai/Desktop/iPhone/LocationTracker/MainWindow.xib
+cCopyPNGFile "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/Default.png" Default.png
+cCopyPNGFile "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/icon.png" icon.png
+cProcessPCH /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch.gch LocationTracker_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch.gch LocationTracker_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/LocationTracker.momd" /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/main.o" /Users/ericmai/Desktop/iPhone/LocationTracker/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTrackerAppDelegate.o" /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/MainViewController.o" /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/FlipsideViewController.o" /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LTLocationManager.o" /Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/DataManager.o" /Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationReading.o" /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/UIDevice+machine.o" /Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTrackingResponseLoader.o" /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTrackingResponseLoader.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIAuthenticationDialog.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIAuthenticationDialog.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIDownloadCache.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIDownloadCache.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIFormDataRequest.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIFormDataRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIHTTPRequest.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIHTTPRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIInputStream.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIInputStream.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASINetworkQueue.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASINetworkQueue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/Reachability.o" /Users/ericmai/Desktop/iPhone/LocationTracker/Reachability.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/main.o" /Users/ericmai/Desktop/iPhone/LocationTracker/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTrackerAppDelegate.o" /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/MainViewController.o" /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/FlipsideViewController.o" /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LTLocationManager.o" /Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/DataManager.o" /Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationReading.o" /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/UIDevice+machine.o" /Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTrackingResponseLoader.o" /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTrackingResponseLoader.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTracker" normal armv6
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIAuthenticationDialog.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIAuthenticationDialog.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIDownloadCache.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIDownloadCache.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIFormDataRequest.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIFormDataRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIHTTPRequest.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIHTTPRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIInputStream.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIInputStream.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASINetworkQueue.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASINetworkQueue.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/Reachability.o" /Users/ericmai/Desktop/iPhone/LocationTracker/Reachability.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTracker" normal armv7
+cCreateUniversalBinary "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/LocationTracker" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app.dSYM" "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/LocationTracker"
+cProcessProductPackaging "/Users/ericmai/Library/MobileDevice/Provisioning Profiles/C9E8F75E-2B1F-43CA-B319-C64572F7F116.mobileprovision" "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/embedded.mobileprovision"
+cTouch "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker.xcent"
+cCodeSign "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C5308920000000000000110
+t1280510098
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004C2A7DA700000000000001E5
+t1277853095
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004BFE083F00000000002F6980
+t1274939455
+s3107200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004BFE082E000000000000046B
+t1274939438
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C04706200000000000C1E70
+t1275359330
+s794224
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C04705A00000000000001D0
+t1275359322
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04800D00000000000002FE
+t1275363341
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C0480330000000000267F90
+t1275363379
+s2523024
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/Availability.h
+c000000004BF4D50E0000000000001A3B
+t1274336526
+s6715
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/sys/sysctl.h
+c000000004BFDFE1B0000000000007974
+t1274936859
+s31092
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/sys/types.h
+c000000004BFDFE1C0000000000002905
+t1274936860
+s10501
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004C5A524A00000000002CE430
+t1280987722
+s2942000
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004C5A517D00000000000004CF
+t1280987517
+s1231
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004C5A533700000000002F9FB0
+t1280987959
+s3121072
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004C5A5311000000000000046B
+t1280987921
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004C5A4FA40000000000000AB3
+t1280987044
+s2739
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FE600000000000C79C0
+t1282158566
+s817600
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C6C2FDF00000000000001D0
+t1282158559
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C31EB00000000000002FE
+t1282159083
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C320B00000000002801E0
+t1282159115
+s2621920
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004C5A53E500000000000000EB
+t1280988133
+s235
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004C5A53E600000000000947B0
+t1280988134
+s608176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C5A556300000000000000C4
+t1280988515
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004C5A511A0000000000001A58
+t1280987418
+s6744
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004C5A512E00000000000B0B30
+t1280987438
+s723760
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/Availability.h
+c000000004C57A57A0000000000001A5C
+t1280812410
+s6748
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004C5790370000000000002407
+t1280806967
+s9223
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/CommonCrypto/CommonHMAC.h
+c000000004C5790370000000000000DE2
+t1280806967
+s3554
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/arpa/inet.h
+c000000004C5790620000000000001533
+t1280807010
+s5427
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/ifaddrs.h
+c000000004C5790730000000000000782
+t1280807027
+s1922
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/netdb.h
+c000000004C57909B000000000000307F
+t1280807067
+s12415
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/netinet/in.h
+c000000004C5A4AAE0000000000005462
+t1280985774
+s21602
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/netinet6/in6.h
+c000000004C5A4AAE0000000000004F61
+t1280985774
+s20321
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/stdio.h
+c000000004C57909100000000000040AC
+t1280807057
+s16556
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/sys/socket.h
+c000000004C5A4AB400000000000059D6
+t1280985780
+s22998
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/sys/sysctl.h
+c000000004C5A4AB40000000000007974
+t1280985780
+s31092
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/sys/types.h
+c000000004C5A4AB50000000000002905
+t1280985781
+s10501
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/zlib.h
+c000000004C5A423C00000000000102A5
+t1280983612
+s66213
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/lib/libz.1.2.3.dylib
+c000000004C5A423D0000000000020FF0
+t1280983613
+s135152
+
+N/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004C5A533700000000002F9FB0
+t1280987959
+s3121072
+
+N/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004C5A5311000000000000046B
+t1280987921
+s1131
+
+N/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FE600000000000C79C0
+t1282158566
+s817600
+
+N/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C6C2FDF00000000000001D0
+t1282158559
+s464
+
+N/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C31EB00000000000002FE
+t1282159083
+s766
+
+N/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C320B00000000002801E0
+t1282159115
+s2621920
+
+N/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/Availability.h
+c000000004C57A57A0000000000001A5C
+t1280812410
+s6748
+
+N/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/sys/sysctl.h
+c000000004C5A4AB40000000000007974
+t1280985780
+s31092
+
+N/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/sys/types.h
+c000000004C5A4AB50000000000002905
+t1280985781
+s10501
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/ASIAuthenticationDialog.h
+c000000004CB1C5660000000000000453
+t1286718822
+s1107
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/ASIAuthenticationDialog.m
+c000000004CB1C5660000000000003CB7
+t1286718822
+s15543
+i"ASIAuthenticationDialog.h"
+i"ASIHTTPRequest.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/ASICacheDelegate.h
+c000000004CB1C56600000000000008AD
+t1286718822
+s2221
+i<Foundation/Foundation.h>
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/ASIDownloadCache.h
+c000000004CB1C5660000000000000804
+t1286718822
+s2052
+i<Foundation/Foundation.h>
+i"ASICacheDelegate.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/ASIDownloadCache.m
+c000000004CB1C5660000000000003924
+t1286718822
+s14628
+i"ASIDownloadCache.h"
+i"ASIHTTPRequest.h"
+i<CommonCrypto/CommonHMAC.h>
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/ASIFormDataRequest.h
+c000000004CB1C5660000000000000A6D
+t1286718822
+s2669
+i<Foundation/Foundation.h>
+i"ASIHTTPRequest.h"
+i"ASIHTTPRequestConfig.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/ASIFormDataRequest.m
+c000000004CB1C5660000000000002B52
+t1286718822
+s11090
+i"ASIFormDataRequest.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/ASIHTTPRequest.h
+c000000004CB1C5660000000000009486
+t1286718822
+s38022
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+i<stdio.h>
+i"ASIHTTPRequestConfig.h"
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+i"ASICacheDelegate.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/ASIHTTPRequest.m
+c000000004CB1C566000000000002647F
+t1286718822
+s156799
+i"ASIHTTPRequest.h"
+i<zlib.h>
+i"Reachability.h"
+i"ASIAuthenticationDialog.h"
+i<MobileCoreServices/MobileCoreServices.h>
+i<SystemConfiguration/SystemConfiguration.h>
+i"ASIInputStream.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/ASIHTTPRequestConfig.h
+c000000004CB1C56600000000000003B0
+t1286718822
+s944
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/ASIHTTPRequestDelegate.h
+c000000004CB1C5660000000000000599
+t1286718822
+s1433
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/ASIInputStream.h
+c000000004CB1C56600000000000003C9
+t1286718822
+s969
+i<Foundation/Foundation.h>
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/ASIInputStream.m
+c000000004CB1C5660000000000000BF0
+t1286718822
+s3056
+i"ASIInputStream.h"
+i"ASIHTTPRequest.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/ASINetworkQueue.h
+c000000004CB1C566000000000000109B
+t1286718822
+s4251
+i<Foundation/Foundation.h>
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/ASINetworkQueue.m
+c000000004CB1C56600000000000027CE
+t1286718822
+s10190
+i"ASINetworkQueue.h"
+i"ASIHTTPRequest.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/ASIProgressDelegate.h
+c000000004CB1C5660000000000000678
+t1286718822
+s1656
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.h
+c000000004C93F1FB000000000000022F
+t1284764155
+s559
+i<UIKit/UIKit.h>
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m
+c000000004C93F1FB0000000000000454
+t1284764155
+s1108
+i"FlipsideViewController.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.h
+c000000004CC5F69300000000000004C6
+t1288042131
+s1222
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"LTLocationManager.h"
+i"DataManager.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m
+c000000004CA4D4810000000000001FE7
+t1285870721
+s8167
+i"LocationTrackerAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.h
+c000000004C95889C000000000000058C
+t1284868252
+s1420
+i"FlipsideViewController.h"
+i<CoreData/CoreData.h>
+i<MapKit/MapKit.h>
+i"LTLocationManager.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m
+c000000004CA4F68600000000000016A3
+t1285879430
+s5795
+i"MainViewController.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.h
+c000000004CC5DC600000000000000703
+t1288035424
+s1795
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+i<CoreLocation/CoreLocation.h>
+i<CommonCrypto/CommonDigest.h>
+i"LocationReading.h"
+i"UIDevice+machine.h"
+i"LocationTrackingResponseLoader.h"
+i"ASIFormDataRequest.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m
+c000000004CC5F56200000000000039C1
+t1288041826
+s14785
+i"DataManager.h"
+i"LocationTrackerAppDelegate.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/Default.png
+c000000004C958D0A000000000002C5BD
+t1284869386
+s181693
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/FlipsideView.xib
+c000000004C93F1FB0000000000004C66
+t1284764155
+s19558
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.h
+c000000004CA4D4690000000000000376
+t1285870697
+s886
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i"LocationReading.h"
+i"DataManager.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m
+c000000004CA4D53900000000000006ED
+t1285870905
+s1773
+i"LTLocationManager.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld
+c000000004CA2E50A00000000000000CC
+t1285743882
+s204
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.h
+c000000004CA2E50A00000000000002BF
+t1285743882
+s703
+i<CoreData/CoreData.h>
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m
+c000000004CA2E50A000000000000018A
+t1285743882
+s394
+i"LocationReading.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker_Prefix.pch
+c000000004C93F1FB0000000000000150
+t1284764155
+s336
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTrackingResponseLoader.h
+c000000004CC5DC8C00000000000003BB
+t1288035468
+s955
+i<Foundation/Foundation.h>
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTrackingResponseLoader.m
+c000000004CC5E3290000000000000F7A
+t1288037161
+s3962
+i"LocationTrackingResponseLoader.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/MainView.xib
+c000000004CA3D39C0000000000009824
+t1285804956
+s38948
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/MainWindow.xib
+c000000004C93F1FB00000000000050BD
+t1284764155
+s20669
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/Reachability.h
+c000000004CB1C5660000000000001D0E
+t1286718822
+s7438
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/Reachability.m
+c000000004CB1C5660000000000005DFD
+t1286718822
+s24061
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.h
+c000000004C1A87E4000000000000010D
+t1276807140
+s269
+i<Foundation/Foundation.h>
+i<sys/types.h>
+i<sys/sysctl.h>
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m
+c000000004C1A879900000000000002BE
+t1276807065
+s702
+i"UIDevice+machine.h"
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app
+t1288042155
+s510
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app.dSYM
+t1288042155
+s102
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/Default.png
+t1288042150
+s221599
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/FlipsideView.nib
+t1288042149
+s2077
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/Info.plist
+t1288042149
+s811
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/LocationTracker
+t1288042155
+s749812
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/LocationTracker.momd
+t1288042151
+s136
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/MainView.nib
+t1288042149
+s6576
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/MainWindow.nib
+t1288042149
+s1717
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/PkgInfo
+t1288042149
+s8
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/ResourceRules.plist
+t1288042149
+s485
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/embedded.mobileprovision
+t1288042155
+s8691
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/icon.png
+t1288042150
+s8686
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker.xcent
+t1288042155
+s415
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIAuthenticationDialog.o
+t1288042152
+s99196
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIDownloadCache.o
+t1288042152
+s53672
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIFormDataRequest.o
+t1288042152
+s43656
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIHTTPRequest.o
+t1288042154
+s405712
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIInputStream.o
+t1288042152
+s25796
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASINetworkQueue.o
+t1288042153
+s52948
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/DataManager.o
+t1288042152
+s85408
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/FlipsideViewController.o
+t1288042152
+s37612
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LTLocationManager.o
+t1288042152
+s25356
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationReading.o
+t1288042152
+s5872
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTracker
+t1288042154
+s378044
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTracker.LinkFileList
+c000000004CC5F6A4000000000000098F
+t1288042148
+s2447
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTrackerAppDelegate.o
+t1288042151
+s68180
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTrackingResponseLoader.o
+t1288042152
+s23992
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/MainViewController.o
+t1288042152
+s70940
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/Reachability.o
+t1288042153
+s32092
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/UIDevice+machine.o
+t1288042152
+s7700
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/main.o
+t1288042151
+s6460
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIAuthenticationDialog.o
+t1288042154
+s98040
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIDownloadCache.o
+t1288042154
+s52592
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIFormDataRequest.o
+t1288042154
+s42748
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIHTTPRequest.o
+t1288042155
+s397784
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIInputStream.o
+t1288042154
+s25528
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASINetworkQueue.o
+t1288042154
+s52400
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/DataManager.o
+t1288042153
+s84220
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/FlipsideViewController.o
+t1288042153
+s37560
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LTLocationManager.o
+t1288042153
+s25052
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationReading.o
+t1288042153
+s5872
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTracker
+t1288042155
+s364788
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTracker.LinkFileList
+c000000004CC5F6A4000000000000098F
+t1288042148
+s2447
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTrackerAppDelegate.o
+t1288042153
+s67908
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTrackingResponseLoader.o
+t1288042154
+s23716
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/MainViewController.o
+t1288042153
+s69968
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/Reachability.o
+t1288042154
+s31256
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/UIDevice+machine.o
+t1288042154
+s7668
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/main.o
+t1288042153
+s6444
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/icon.png
+c000000004CC5E2430000000000001CCD
+t1288036931
+s7373
+
+N/Users/ericmai/Desktop/iPhone/LocationTracker/main.m
+c000000004C93F1FB0000000000000167
+t1284764155
+s359
+i<UIKit/UIKit.h>
+
+N/Users/ericmai/Library/MobileDevice/Provisioning Profiles/87D71B9F-98E2-460D-99D7-E3DF9E75BA6C.mobileprovision
+c000000004CA4FDD500000000000021F9
+t1285881301
+s8697
+
+N/Users/ericmai/Library/MobileDevice/Provisioning Profiles/C9E8F75E-2B1F-43CA-B319-C64572F7F116.mobileprovision
+c000000004CAB5C2000000000000021F3
+t1286298656
+s8691
+
+N/var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-asebbgqwmzvehkejidvjifxmygqc/LocationTracker_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-dcbfssfwsavfznfonlsrbtggbabq/LocationTracker_Prefix.pch.gch
+t1286298961
+s9856560
+
+N/var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-elkpxvilnzjjwjaxnpkzwsqwgsok/LocationTracker_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch.gch
+t1288042151
+s10315312
+
+N/var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch.gch
+t1288042151
+s9852464
+
+N/var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-gpgzymdtaixmocdqdbkkrhzdrysb/LocationTracker_Prefix.pch.gch
+t1286298961
+s10315312
+
+NLocationTracker-Info.plist
+c000000004CC5E1FA00000000000003DC
+t1288036858
+s988
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309734948#309734949#0(0"0(0#1#0"8627295232#0"0#
+
+CCodeSign "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app"
+s309734955.640800
+e309734955.885697
+r1
+xCodeSign
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app
+lSLF07#2@52"CodeSign "build/Ad Hoc-iphoneos/LocationTracker.app"309734955#309734955#0(0"0(0#0#87"/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app8636452064#721"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Distribution: Jerry Jariyasunant" "--resource-rules=/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/ResourceRules.plist" --entitlements "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker.xcent" "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIAuthenticationDialog.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIAuthenticationDialog.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309734952.392517
+e309734952.650114
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIAuthenticationDialog.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/ASIAuthenticationDialog.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/ASIAuthenticationDialog.m309734952#309734952#0(0"0(0#0#71"/Users/ericmai/Desktop/iPhone/LocationTracker/ASIAuthenticationDialog.m8635518464#2028"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv6" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/ASIAuthenticationDialog.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIAuthenticationDialog.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIDownloadCache.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIDownloadCache.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309734952.463642
+e309734952.651442
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIDownloadCache.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/ASIDownloadCache.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/ASIDownloadCache.m309734952#309734952#0(0"0(0#0#64"/Users/ericmai/Desktop/iPhone/LocationTracker/ASIDownloadCache.m8639319968#2014"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv6" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/ASIDownloadCache.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIDownloadCache.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIFormDataRequest.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIFormDataRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309734952.650230
+e309734952.800912
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIFormDataRequest.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/ASIFormDataRequest.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/ASIFormDataRequest.m309734952#309734952#0(0"0(0#0#66"/Users/ericmai/Desktop/iPhone/LocationTracker/ASIFormDataRequest.m8636696160#2018"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv6" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/ASIFormDataRequest.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIFormDataRequest.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIHTTPRequest.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIHTTPRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309734952.651525
+e309734954.093786
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIHTTPRequest.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/ASIHTTPRequest.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/ASIHTTPRequest.m309734952#309734954#0(0"0(0#0#62"/Users/ericmai/Desktop/iPhone/LocationTracker/ASIHTTPRequest.m8636016704#2010"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv6" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/ASIHTTPRequest.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIHTTPRequest.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIInputStream.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIInputStream.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309734952.801023
+e309734952.888612
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIInputStream.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/ASIInputStream.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/ASIInputStream.m309734952#309734952#0(0"0(0#0#62"/Users/ericmai/Desktop/iPhone/LocationTracker/ASIInputStream.m8627987040#2010"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv6" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/ASIInputStream.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASIInputStream.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASINetworkQueue.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASINetworkQueue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309734952.888721
+e309734953.034793
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASINetworkQueue.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/ASINetworkQueue.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/ASINetworkQueue.m309734952#309734953#0(0"0(0#0#63"/Users/ericmai/Desktop/iPhone/LocationTracker/ASINetworkQueue.m8621677408#2012"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv6" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/ASINetworkQueue.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/ASINetworkQueue.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/DataManager.o" /Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309734952.179979
+e309734952.392407
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/DataManager.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m309734952#309734952#0(0"0(0#0#59"/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m8636231872#2004"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv6" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/DataManager.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/FlipsideViewController.o" /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309734951.982461
+e309734952.071445
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/FlipsideViewController.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m309734951#309734952#0(0"0(0#0#78"/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m8626498976#2034"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv6" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/FlipsideViewController.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LTLocationManager.o" /Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309734952.071543
+e309734952.179868
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LTLocationManager.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m309734952#309734952#0(0"0(0#0#65"/Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m8639193184#2016"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv6" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LTLocationManager.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationReading.o" /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309734952.204229
+e309734952.273256
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationReading.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m309734952#309734952#0(0"0(0#0#92"/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m8628327808#2041"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv6" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationReading.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTrackerAppDelegate.o" /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309734951.829983
+e309734951.976988
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTrackerAppDelegate.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m309734951#309734951#0(0"0(0#0#82"/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m8637660288#2042"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv6" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTrackerAppDelegate.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTrackingResponseLoader.o" /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTrackingResponseLoader.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309734952.363819
+e309734952.463524
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTrackingResponseLoader.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTrackingResponseLoader.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTrackingResponseLoader.m309734952#309734952#0(0"0(0#0#78"/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTrackingResponseLoader.m8636338368#2042"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv6" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTrackingResponseLoader.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTrackingResponseLoader.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/MainViewController.o" /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309734951.977096
+e309734952.203980
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/MainViewController.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m309734951#309734952#0(0"0(0#0#74"/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m8632445856#2026"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv6" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/MainViewController.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/Reachability.o" /Users/ericmai/Desktop/iPhone/LocationTracker/Reachability.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309734953.034897
+e309734953.162739
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/Reachability.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/Reachability.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/Reachability.m309734953#309734953#0(0"0(0#0#60"/Users/ericmai/Desktop/iPhone/LocationTracker/Reachability.m8638162720#2006"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv6" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/Reachability.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/Reachability.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/UIDevice+machine.o" /Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309734952.273361
+e309734952.363713
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/UIDevice+machine.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m: In function '-[UIDevice(machine) machine]':
+o/Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m:28: warning: 'stringWithCString:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:390)
+lSLF07#2@72"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m309734952#309734952#0(377"/Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m: In function '-[UIDevice(machine) machine]':/Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m:28: warning: 'stringWithCString:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:390)1(22@188"'stringWithCString:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:390)309734952#110#267#0(6@64"/Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m298499865#28#0#28#0#33"'*' is deprecated (declared at *)0(0#0#64"/Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m8624867200#2014"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv6" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/UIDevice+machine.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/main.o" /Users/ericmai/Desktop/iPhone/LocationTracker/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309734951.776696
+e309734951.829869
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/main.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/main.m309734951#309734951#0(0"0(0#0#52"/Users/ericmai/Desktop/iPhone/LocationTracker/main.m8639115264#1990"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv6" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/main.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/main.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIAuthenticationDialog.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIAuthenticationDialog.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309734954.170837
+e309734954.419471
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIAuthenticationDialog.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/ASIAuthenticationDialog.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/ASIAuthenticationDialog.m309734954#309734954#0(0"0(0#0#71"/Users/ericmai/Desktop/iPhone/LocationTracker/ASIAuthenticationDialog.m8626048192#2028"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv7" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/ASIAuthenticationDialog.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIAuthenticationDialog.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIDownloadCache.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIDownloadCache.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309734954.193463
+e309734954.373804
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIDownloadCache.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/ASIDownloadCache.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/ASIDownloadCache.m309734954#309734954#0(0"0(0#0#64"/Users/ericmai/Desktop/iPhone/LocationTracker/ASIDownloadCache.m8633282080#2014"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv7" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/ASIDownloadCache.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIDownloadCache.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIFormDataRequest.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIFormDataRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309734954.373922
+e309734954.528013
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIFormDataRequest.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/ASIFormDataRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/ASIFormDataRequest.m309734954#309734954#0(0"0(0#0#66"/Users/ericmai/Desktop/iPhone/LocationTracker/ASIFormDataRequest.m8636798656#2018"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv7" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/ASIFormDataRequest.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIFormDataRequest.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIHTTPRequest.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIHTTPRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309734954.419577
+e309734955.388863
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIHTTPRequest.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/ASIHTTPRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/ASIHTTPRequest.m309734954#309734955#0(0"0(0#0#62"/Users/ericmai/Desktop/iPhone/LocationTracker/ASIHTTPRequest.m8636023712#2010"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv7" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/ASIHTTPRequest.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIHTTPRequest.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIInputStream.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASIInputStream.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309734954.528123
+e309734954.629722
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIInputStream.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/ASIInputStream.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/ASIInputStream.m309734954#309734954#0(0"0(0#0#62"/Users/ericmai/Desktop/iPhone/LocationTracker/ASIInputStream.m8633759488#2010"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv7" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/ASIInputStream.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASIInputStream.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASINetworkQueue.o" /Users/ericmai/Desktop/iPhone/LocationTracker/ASINetworkQueue.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309734954.629833
+e309734954.773369
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASINetworkQueue.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/ASINetworkQueue.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/ASINetworkQueue.m309734954#309734954#0(0"0(0#0#63"/Users/ericmai/Desktop/iPhone/LocationTracker/ASINetworkQueue.m8630229440#2012"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv7" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/ASINetworkQueue.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/ASINetworkQueue.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/DataManager.o" /Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309734953.732624
+e309734953.915450
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/DataManager.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m309734953#309734953#0(0"0(0#0#59"/Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m8629704192#2004"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv7" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/DataManager.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/DataManager.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/FlipsideViewController.o" /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309734953.532122
+e309734953.609218
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/FlipsideViewController.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m309734953#309734953#0(0"0(0#0#78"/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m8638853504#2034"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv7" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/FlipsideViewController.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/FlipsideViewController.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LTLocationManager.o" /Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309734953.609327
+e309734953.732373
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LTLocationManager.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m309734953#309734953#0(0"0(0#0#65"/Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m8636707616#2016"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv7" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/LTLocationManager.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LTLocationManager.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationReading.o" /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309734953.915564
+e309734953.989776
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationReading.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m309734953#309734953#0(0"0(0#0#92"/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m8638102400#2041"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv7" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld/LocationReading.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationReading.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTrackerAppDelegate.o" /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309734953.223015
+e309734953.369717
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTrackerAppDelegate.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m309734953#309734953#0(0"0(0#0#82"/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m8636352480#2042"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv7" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/LocationTrackerAppDelegate.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTrackerAppDelegate.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTrackingResponseLoader.o" /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTrackingResponseLoader.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309734954.083103
+e309734954.170727
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTrackingResponseLoader.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTrackingResponseLoader.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTrackingResponseLoader.m309734954#309734954#0(0"0(0#0#78"/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTrackingResponseLoader.m8632990432#2042"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv7" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTrackingResponseLoader.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTrackingResponseLoader.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/MainViewController.o" /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309734953.369855
+e309734953.532012
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/MainViewController.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m309734953#309734953#0(0"0(0#0#74"/Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m8628888640#2026"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv7" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/Classes/MainViewController.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/MainViewController.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/Reachability.o" /Users/ericmai/Desktop/iPhone/LocationTracker/Reachability.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309734954.773476
+e309734954.903573
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/Reachability.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/Reachability.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/Reachability.m309734954#309734954#0(0"0(0#0#60"/Users/ericmai/Desktop/iPhone/LocationTracker/Reachability.m8639002880#2006"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv7" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/Reachability.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/Reachability.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/UIDevice+machine.o" /Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309734953.989881
+e309734954.082987
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/UIDevice+machine.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m: In function '-[UIDevice(machine) machine]':
+o/Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m:28: warning: 'stringWithCString:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:390)
+lSLF07#2@72"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m309734953#309734954#0(377"/Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m: In function '-[UIDevice(machine) machine]':/Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m:28: warning: 'stringWithCString:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:390)1(22@188"'stringWithCString:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:390)309734954#110#267#0(6@64"/Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m298499865#28#0#28#0#33"'*' is deprecated (declared at *)0(0#0#64"/Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m8636843264#2014"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv7" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/UIDevice+machine.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/UIDevice+machine.o"0#
+
+CCompileC "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/main.o" /Users/ericmai/Desktop/iPhone/LocationTracker/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309734953.162851
+e309734953.222904
+r1
+xCompileC
+xbuild/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/main.o
+x/Users/ericmai/Desktop/iPhone/LocationTracker/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/ericmai/Desktop/iPhone/LocationTracker/main.m309734953#309734953#0(0"0(0#0#52"/Users/ericmai/Desktop/iPhone/LocationTracker/main.m8637214752#1990"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv7" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -include /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch -c /Users/ericmai/Desktop/iPhone/LocationTracker/main.m -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB /Users/ericmai/Desktop/iPhone/LocationTracker/FlipsideView.xib
+s309734949.039469
+e309734949.517231
+r1
+xCompileXIB
+x/Users/ericmai/Desktop/iPhone/LocationTracker/FlipsideView.xib
+lSLF07#2@27"CompileXIB FlipsideView.xib309734949#309734949#0(0"0(0#0#62"/Users/ericmai/Desktop/iPhone/LocationTracker/FlipsideView.xib8641455808#580"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/FlipsideView.nib" /Users/ericmai/Desktop/iPhone/LocationTracker/FlipsideView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/ericmai/Desktop/iPhone/LocationTracker/MainView.xib
+s309734949.040298
+e309734949.660163
+r1
+xCompileXIB
+x/Users/ericmai/Desktop/iPhone/LocationTracker/MainView.xib
+lSLF07#2@23"CompileXIB MainView.xib309734949#309734949#0(0"0(0#0#58"/Users/ericmai/Desktop/iPhone/LocationTracker/MainView.xib8641268320#572"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/MainView.nib" /Users/ericmai/Desktop/iPhone/LocationTracker/MainView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/ericmai/Desktop/iPhone/LocationTracker/MainWindow.xib
+s309734949.517361
+e309734949.988687
+r1
+xCompileXIB
+x/Users/ericmai/Desktop/iPhone/LocationTracker/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib309734949#309734949#0(0"0(0#0#60"/Users/ericmai/Desktop/iPhone/LocationTracker/MainWindow.xib8637336256#576"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/MainWindow.nib" /Users/ericmai/Desktop/iPhone/LocationTracker/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCopyPNGFile "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/Default.png" Default.png
+s309734949.660272
+e309734950.680616
+r1
+xCopyPNGFile
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/Default.png
+xDefault.png
+lSLF07#2@79"CopyPNGFile "build/Ad Hoc-iphoneos/LocationTracker.app/Default.png" Default.png309734949#309734950#0(0"0(0#0#57"/Users/ericmai/Desktop/iPhone/LocationTracker/Default.png8636936608#594"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ericmai/Desktop/iPhone/LocationTracker/Default.png "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/Default.png"0#
+
+CCopyPNGFile "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/icon.png" icon.png
+s309734949.988793
+e309734950.074155
+r1
+xCopyPNGFile
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/icon.png
+xicon.png
+lSLF07#2@73"CopyPNGFile "build/Ad Hoc-iphoneos/LocationTracker.app/icon.png" icon.png309734949#309734950#0(0"0(0#0#54"/Users/ericmai/Desktop/iPhone/LocationTracker/icon.png8641249440#588"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ericmai/Desktop/iPhone/LocationTracker/icon.png "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/icon.png"0#
+
+CCpResource "build/Ad Hoc-iphoneos/LocationTracker.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+r0
+
+CCpResource "build/Ad Hoc-iphoneos/LocationTracker.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s309734949.006788
+e309734949.039334
+r1
+xCpResource
+xbuild/Ad Hoc-iphoneos/LocationTracker.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist309734949#309734949#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist8630241344#505"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app"0#
+
+CCpResource "build/Ad Hoc-iphoneos/LocationTracker.app/ResourceRules.plist" /Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s307991758.332386
+e307991758.424070
+r1
+xCpResource
+xbuild/Ad Hoc-iphoneos/LocationTracker.app/ResourceRules.plist
+x/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist307991758#307991758#0(0"0(0#0#91"/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist8531300039613640704#513"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv PATH "/Developer41/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer41/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer41/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app"0#
+
+CCreateUniversalBinary "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/LocationTracker" normal "armv6 armv7"
+s309734955.473150
+e309734955.479049
+r1
+xCreateUniversalBinary
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/LocationTracker
+xnormal
+xarmv6 armv7
+lSLF07#2@102"CreateUniversalBinary "build/Ad Hoc-iphoneos/LocationTracker.app/LocationTracker" normal "armv6 armv7"309734955#309734955#0(0"0(0#0#57"/Users/ericmai/Desktop/iPhone/LocationTracker/armv6 armv78629927168#619"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTracker" "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTracker" -output "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/LocationTracker"0#
+
+CDataModelVersionCompile "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/LocationTracker.momd" /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld
+s309734951.775368
+e309734951.982350
+r1
+xDataModelVersionCompile
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/LocationTracker.momd
+x/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld
+lSLF07#2@117"DataModelVersionCompile "build/Ad Hoc-iphoneos/LocationTracker.app/LocationTracker.momd" LocationTracker.xcdatamodeld309734951#309734951#0(0"0(0#0#74"/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld8640404480#391"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker.xcdatamodeld "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/LocationTracker.momd"0#
+
+CGenerateDSYMFile "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app.dSYM" "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/LocationTracker"
+s309734955.479155
+e309734955.573316
+r1
+xGenerateDSYMFile
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app.dSYM
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/LocationTracker
+lSLF07#2@125"GenerateDSYMFile "build/Ad Hoc-iphoneos/LocationTracker.app.dSYM" "build/Ad Hoc-iphoneos/LocationTracker.app/LocationTracker"309734955#309734955#0(0"0(0#0#103"/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/LocationTracker8628393792#413"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/LocationTracker" -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app.dSYM"0#
+
+CLd "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTracker" normal armv6
+s309734954.093888
+e309734954.193349
+r1
+xLd
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTracker
+xnormal
+xarmv6
+lSLF07#2@153"Link /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTracker309734954#309734954#0(0"0(0#0#0"8627216736#1112"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk "-L/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" -filelist "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTracker.LinkFileList" -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework CoreLocation -framework MapKit -framework CFNetwork -framework SystemConfiguration -framework MobileCoreServices -lz.1.2.3 -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv6/LocationTracker"0#
+
+CLd "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTracker" normal armv7
+s309734955.389101
+e309734955.473045
+r1
+xLd
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTracker
+xnormal
+xarmv7
+lSLF07#2@153"Link /Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTracker309734955#309734955#0(0"0(0#0#0"8636471904#1112"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk "-L/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" -filelist "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTracker.LinkFileList" -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework CoreLocation -framework MapKit -framework CFNetwork -framework SystemConfiguration -framework MobileCoreServices -lz.1.2.3 -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/Objects-normal/armv7/LocationTracker"0#
+
+CProcessInfoPlistFile "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/Info.plist" LocationTracker-Info.plist
+s309734949.007728
+e309734949.011133
+r1
+xProcessInfoPlistFile
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/Info.plist
+xLocationTracker-Info.plist
+lSLF07#2@34"Process LocationTracker-Info.plist309734949#309734949#0(0"0(0#0#72"/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker-Info.plist8629945152#631"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LocationTracker-Info.plist -genpkginfo "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/ResourceRules.plist" -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/Info.plist"0#
+
+CProcessPCH /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-asebbgqwmzvehkejidvjifxmygqc/LocationTracker_Prefix.pch.gch LocationTracker_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-dcbfssfwsavfznfonlsrbtggbabq/LocationTracker_Prefix.pch.gch LocationTracker_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s307991760.617513
+e307991761.893826
+r1
+xProcessPCH
+x/var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-dcbfssfwsavfznfonlsrbtggbabq/LocationTracker_Prefix.pch.gch
+xLocationTracker_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile LocationTracker_Prefix.pch307991760#307991761#0(0"0(0#0#72"/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker_Prefix.pch8613740992#1878"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer41/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer41/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer41/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv6" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -c /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker_Prefix.pch -o /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-dcbfssfwsavfznfonlsrbtggbabq/LocationTracker_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-elkpxvilnzjjwjaxnpkzwsqwgsok/LocationTracker_Prefix.pch.gch LocationTracker_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch.gch LocationTracker_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309734950.682004
+e309734951.775217
+r1
+xProcessPCH
+x/var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch.gch
+xLocationTracker_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile LocationTracker_Prefix.pch309734950#309734951#0(0"0(0#0#72"/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker_Prefix.pch8639401856#1870"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv7" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -c /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker_Prefix.pch -o /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-expzweltxdhmrjcwnugsuktnnebj/LocationTracker_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch.gch LocationTracker_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309734950.680913
+e309734951.652539
+r1
+xProcessPCH
+x/var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch.gch
+xLocationTracker_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile LocationTracker_Prefix.pch309734950#309734951#0(0"0(0#0#72"/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker_Prefix.pch8628795072#1870"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv6" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -c /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker_Prefix.pch -o /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-frdkapknmtbbafajefynkhbkocfn/LocationTracker_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-gpgzymdtaixmocdqdbkkrhzdrysb/LocationTracker_Prefix.pch.gch LocationTracker_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s307991760.618476
+e307991761.990090
+r1
+xProcessPCH
+x/var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-gpgzymdtaixmocdqdbkkrhzdrysb/LocationTracker_Prefix.pch.gch
+xLocationTracker_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile LocationTracker_Prefix.pch307991760#307991761#0(0"0(0#0#72"/Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker_Prefix.pch8613574688#1878"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer41/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer41/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer41/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-generated-files.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-own-target-headers.hmap" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-all-target-headers.hmap" -iquote "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker-project-headers.hmap" "-F/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/include" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources/armv7" "-I/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/DerivedSources" -c /Users/ericmai/Desktop/iPhone/LocationTracker/LocationTracker_Prefix.pch -o /var/folders/v5/v53WlVSFHPOPun1uG-Ql8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationTracker_Prefix-gpgzymdtaixmocdqdbkkrhzdrysb/LocationTracker_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/ericmai/Library/MobileDevice/Provisioning Profiles/87D71B9F-98E2-460D-99D7-E3DF9E75BA6C.mobileprovision" "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging "/Users/ericmai/Library/MobileDevice/Provisioning Profiles/C9E8F75E-2B1F-43CA-B319-C64572F7F116.mobileprovision" "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/embedded.mobileprovision"
+s309734955.573495
+e309734955.604034
+r1
+xProcessProductPackaging
+x/Users/ericmai/Library/MobileDevice/Provisioning Profiles/C9E8F75E-2B1F-43CA-B319-C64572F7F116.mobileprovision
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/embedded.mobileprovision
+lSLF07#2@205"ProcessProductPackaging "/Users/ericmai/Library/MobileDevice/Provisioning Profiles/C9E8F75E-2B1F-43CA-B319-C64572F7F116.mobileprovision" "build/Ad Hoc-iphoneos/LocationTracker.app/embedded.mobileprovision"309734955#309734955#0(0"0(0#0#112"/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/embedded.mobileprovision8639101920#450"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/ericmai/Library/MobileDevice/Provisioning Profiles/C9E8F75E-2B1F-43CA-B319-C64572F7F116.mobileprovision" -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker.xcent"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker.xcent"
+s309734955.608833
+e309734955.640715
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker.xcent
+lSLF07#2@202"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker.xcent"309734955#309734955#0(0"0(0#0#133"/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker.xcent8636936032#473"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker.xcent"0#
+
+CProcessProductPackaging /Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker.xcent"
+s307991764.065402
+e307991764.092217
+r1
+xProcessProductPackaging
+x/Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker.xcent
+lSLF07#2@204"ProcessProductPackaging /Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist "build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker.xcent"307991764#307991764#0(0"0(0#0#133"/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker.xcent8611776384#479"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv PATH "/Developer41/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer41/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer41/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o "/Users/ericmai/Desktop/iPhone/LocationTracker/build/LocationTracker.build/Ad Hoc-iphoneos/LocationTracker.build/LocationTracker.xcent"0#
+
+CTouch "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app"
+s309734955.604144
+e309734955.608730
+r1
+xTouch
+x/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app
+lSLF07#2@93"Touch /Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app309734955#309734955#0(0"0(0#0#0"8637650880#289"    cd /Users/ericmai/Desktop/iPhone/LocationTracker    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/ericmai/Desktop/iPhone/LocationTracker/build/Ad Hoc-iphoneos/LocationTracker.app"0#
+

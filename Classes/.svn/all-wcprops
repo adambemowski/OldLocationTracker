@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/berkeley_modechoice/!svn/ver/720/trunk/client/iphone/Classes
+END
+FlipsideViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/berkeley_modechoice/!svn/ver/747/trunk/client/iphone/Classes/FlipsideViewController.h
+END
+LocationTrackerAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/berkeley_modechoice/!svn/ver/735/trunk/client/iphone/Classes/LocationTrackerAppDelegate.h
+END
+FlipsideViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/berkeley_modechoice/!svn/ver/808/trunk/client/iphone/Classes/FlipsideViewController.m
+END
+MainViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/berkeley_modechoice/!svn/ver/747/trunk/client/iphone/Classes/MainViewController.h
+END
+LocationTrackerAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/berkeley_modechoice/!svn/ver/808/trunk/client/iphone/Classes/LocationTrackerAppDelegate.m
+END
+MainViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/berkeley_modechoice/!svn/ver/808/trunk/client/iphone/Classes/MainViewController.m
+END

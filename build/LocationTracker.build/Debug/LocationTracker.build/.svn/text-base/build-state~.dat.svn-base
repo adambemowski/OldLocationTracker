@@ -1,0 +1,92 @@
+TLocationTracker
+v7
+r1
+cCheck dependencies
+
+N/Users/jjariyas/Downloads/LocationTracker/Default.png
+c000000004C958D0A000000000002C5BD
+t1284869386
+s181693
+
+N/Users/jjariyas/Downloads/LocationTracker/FlipsideView.xib
+c000000004C93F1FB0000000000004C66
+t1284764155
+s19558
+
+N/Users/jjariyas/Downloads/LocationTracker/MainView.xib
+c000000004CDC85630000000000009AF1
+t1289520483
+s39665
+
+N/Users/jjariyas/Downloads/LocationTracker/MainWindow.xib
+c000000004C93F1FB00000000000050BD
+t1284764155
+s20669
+
+N/Users/jjariyas/Downloads/LocationTracker/build/Debug/LocationTracker.app
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker/build/Debug/LocationTracker.app/Contents/Info.plist
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker/build/Debug/LocationTracker.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker/build/Debug/LocationTracker.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker/build/Debug/LocationTracker.app/Contents/Resources/FlipsideView.nib
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker/build/Debug/LocationTracker.app/Contents/Resources/MainView.nib
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker/build/Debug/LocationTracker.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker/build/Debug/LocationTracker.app/Contents/Resources/icon.png
+t2
+s0
+
+N/Users/jjariyas/Downloads/LocationTracker/icon.png
+c000000004CC5E2430000000000001CCD
+t1288036931
+s7373
+
+NLocationTracker-Info.plist
+c000000004CC5E1FA00000000000003DC
+t1288036858
+s988
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311896369#311896369#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.1'1(4@58"error: There is no SDK with the name or path 'iphoneos4.1'311896369#18446744073709551615#0#0(1@0"0(0#1#0"31244212048494624#0"0#
+
+CCompileXIB /Users/jjariyas/Downloads/LocationTracker/FlipsideView.xib
+r0
+
+CCompileXIB /Users/jjariyas/Downloads/LocationTracker/MainView.xib
+r0
+
+CCompileXIB /Users/jjariyas/Downloads/LocationTracker/MainWindow.xib
+r0
+
+CCpResource build/Debug/LocationTracker.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/LocationTracker.app/Contents/Resources/icon.png icon.png
+r0
+
+CProcessInfoPlistFile /Users/jjariyas/Downloads/LocationTracker/build/Debug/LocationTracker.app/Contents/Info.plist LocationTracker-Info.plist
+r0
+
+CTouch /Users/jjariyas/Downloads/LocationTracker/build/Debug/LocationTracker.app
+r0
+

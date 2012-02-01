@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Default.png</key>
+		<data>
+		64aQ+/b59j7HJzVIRbuOtKEZ0gc=
+		</data>
+		<key>FlipsideView.nib</key>
+		<data>
+		ZfijmilR+nQ9MCUFUc5m27ONXiA=
+		</data>
+		<key>LocationTracker.momd/LocationTracker 2.mom</key>
+		<data>
+		xLsG2k7jnovYQh951AAlmmgpeao=
+		</data>
+		<key>LocationTracker.momd/LocationTracker.mom</key>
+		<data>
+		WRG/5bK0yjLlPAt3nStgo6N7EJ0=
+		</data>
+		<key>MainView.nib</key>
+		<data>
+		TjAbl8QxQpvcw2/79lpecHLvrfc=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		0pjg+R10h+5FfHTUDd6LV6xLhuU=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		Gb2o6Qpr8NYPzmuF3XIsKHpXg38=
+		</data>
+		<key>icon.png</key>
+		<data>
+		Re4i4uSgVk4Pl8hcjHXiKDgbdjc=
+		</data>
+		<key>tripographyLogo.png</key>
+		<data>
+		95UGePR3g14j83GqZbZRY3KK35Q=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

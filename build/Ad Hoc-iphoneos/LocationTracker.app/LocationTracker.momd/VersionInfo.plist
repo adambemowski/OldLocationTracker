@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>LocationTracker 2</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>LocationTracker</key>
+		<dict>
+			<key>LocationReading</key>
+			<data>
+			hDJHNNMtWfSSQz4Txs4MGpIbeC3WEu16Xbp8OEVDoFE=
+			</data>
+		</dict>
+		<key>LocationTracker 2</key>
+		<dict>
+			<key>LocationReading</key>
+			<data>
+			AY1V6TtS2X4xNvPRncEKGc1G34Id9IHESvBt3yf37CE=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

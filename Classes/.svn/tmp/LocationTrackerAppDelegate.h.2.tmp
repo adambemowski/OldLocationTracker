@@ -1,0 +1,59 @@
+//
+//  LocationTrackerAppDelegate.h
+//  LocationTracker
+//
+//  Created by Eric Mai on 9/17/10.
+//  Copyright UC Berkeley 2010. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import <CoreData/CoreData.h>
+#import "LTLocationManager.h"
+#import "DataManager.h"
+#import "Constants.h"
+
+
+@class MainViewController;
+@class FlipsideViewController;
+
+@interface LocationTrackerAppDelegate : NSObject <UIApplicationDelegate>{
+	
+	NSString* token;
+	UIWindow *window;
+    MainViewController *mainViewController;
+	FlipsideViewController *flipsideViewController;
+	LTLocationManager *locationManager;
+    CLLocationManager *CLLManager;
+    int improveAccuracyCounter;
+	
+	NSManagedObjectModel *managedObjectModel;
+    NSManagedObjectContext *managedObjectContext;	    
+    NSPersistentStoreCoordinator *persistentStoreCoordinator;
+<<<<<<< .mine
+    
+=======
+    
+    NSString *_docPath;
+>>>>>>> .r734
+}
+
+@property (nonatomic, retain) NSString *token;
+@property (nonatomic, retain) IBOutlet UIWindow *window;
+@property (nonatomic, retain) IBOutlet MainViewController *mainViewController;
+@property (nonatomic, retain) IBOutlet FlipsideViewController *flipsideViewController;
+@property (nonatomic, retain) LTLocationManager *locationManager;
+@property (nonatomic, retain) CLLocationManager *CLLManager;
+@property (assign) int improveAccuracyCounter;
+
+@property (nonatomic, retain) NSManagedObjectContext *managedObjectContext;
+@property (nonatomic, retain) NSManagedObjectModel *managedObjectModel;
+@property (nonatomic, retain) NSPersistentStoreCoordinator *persistentStoreCoordinator;
+
+- (NSString *)applicationDocumentsDirectory;
+
+-(void)trackTheDate;
+-(void)improveAccuracy;
+-(void)endImprovedAccuracy;
+
+@end
+

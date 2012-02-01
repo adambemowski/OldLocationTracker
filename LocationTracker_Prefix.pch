@@ -1,0 +1,23 @@
+//
+// Prefix header for all source files of the 'LocationTracker' target in the 'LocationTracker' project
+//
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+//#define DEBUG_MODE // Comment this line out on release builds to silence all MCLog statements (for performance improvements)
+
+// http://stackoverflow.com/questions/300673/is-it-true-that-one-should-not-use-MCLog-on-production-code
+#ifdef DEBUG_MODE
+#define MCLog( s, ... ) NSLog( @"%@ (%d): %@", [[NSString stringWithUTF8String:__FILE__] lastPathComponent], __LINE__, [NSString stringWithFormat:(s), ##__VA_ARGS__] )
+#else
+#define MCLog( s, ... ) 
+#endif
